@@ -1,0 +1,4 @@
+﻿Tooltip_CN = {
+    Tooltip_SL_Lantern = "一款电池供电的提灯.电量耗尽时需要背包中有电池进行替换."
+	Tooltip_SL_GasLantern = "一款汽油驱动的提灯.燃料耗尽时需要背包中有汽油进行补充."
+}

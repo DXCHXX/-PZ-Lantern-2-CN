@@ -1,0 +1,4 @@
+Recipes_CN = {
+    Recipe_Insert_Battery_into_Lantern = "将电池插入提灯",
+    Recipe_Refill_GasLantern = "为煤气提灯加油",
+}
